@@ -1,8 +1,11 @@
 
 body{
-    padding: 100px;
+    padding: 30px;
 }
 
+#login-area{
+    padding: 80px;
+}
 .submit-area{
 
     margin: 25px;
@@ -19,6 +22,10 @@ body{
     text-align: center;
     color: grey;
     font-weight: 700;
+}
+
+.pad-50{
+    padding:50px;
 }
 
 .status{
